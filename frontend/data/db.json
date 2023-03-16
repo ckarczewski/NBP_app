@@ -1,0 +1,89 @@
+{
+    "measures": [
+        {
+            "time": 7,
+            "median": 12,
+            "dominant": [1,2,3],
+            "standard_deviation": 34,
+            "coefficient_of_variation": 54
+        },
+        {
+            "time": 14,
+            "median": 12,
+            "dominant": [1,2,3],
+            "standard_deviation": 34,
+            "coefficient_of_variation": 54
+        },
+        {
+            "time": 30,
+            "median": 12,
+            "dominant": [1,2,3],
+            "standard_deviation": 34,
+            "coefficient_of_variation": 54
+        },
+        {
+            "time": 90,
+            "median": 12,
+            "dominant": [1,2,3],
+            "standard_deviation": 34,
+            "coefficient_of_variation": 54
+        },
+        {
+            "time": 180,
+            "median": 12,
+            "dominant": [1,2,3],
+            "standard_deviation": 34,
+            "coefficient_of_variation": 54
+        },
+        {
+            "time": 360,
+            "median": 12,
+            "dominant": [1,2,3],
+            "standard_deviation": 34,
+            "coefficient_of_variation": 54
+        }
+    ],
+    "session": [
+        {
+            "time": 7,
+            "count_up": 1,
+            "count_down": 2,
+            "count_const": 3
+        },{
+            "time": 14,
+            "count_up": 4,
+            "count_down": 5,
+            "count_const": 6
+        },{
+            "time": 30,
+            "count_up": 7,
+            "count_down": 8,
+            "count_const": 9
+        },{
+            "time": 90,
+            "count_up": 10,
+            "count_down": 11,
+            "count_const": 12
+        },{
+            "time": 180,
+            "count_up": 13,
+            "count_down": 14,
+            "count_const": 15
+        },{
+            "time": 360,
+            "count_up": 16,
+            "count_down": 17,
+            "count_const": 18
+        }
+    ],
+    "currency_comparison": [
+        {
+            "size_range_list": [-2, -1, 0, 1, 2, 3],
+            "values": [10, 20, 30, 25, 15]
+        },
+        {
+            "size_range_list": [-4, -2, 0, 2, 4, 6],
+            "values": [20, 35, 50, 40, 10]
+        }
+    ]
+}
